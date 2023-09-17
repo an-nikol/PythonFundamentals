@@ -1,0 +1,44 @@
+qty_decorations_per_shopping = int(input())
+days_left = int(input())
+
+price_per_ornament = 2
+price_per_tree_skirt = 5
+price_per_tree_garland = 3
+price_per_tree_lights = 15
+
+total_spirit_points = 0
+total_cost = 0
+
+points_per_shopping_ornament = 5
+points_per_shopping_tree_skirt = 3
+points_per_shopping_tree_garland = 10
+points_per_shopping_tree_lights = 17
+
+# create a for-loop to count the days left to Christmas
+for day in range(1, days_left + 1):
+    # make this the first check, because it determines every other calculation below (ex. 22nd day)
+    if day % 11 == 0:
+        qty_decorations_per_shopping += 2
+    if day % 2 == 0:
+        total_cost += qty_decorations_per_shopping * price_per_ornament
+        total_spirit_points += 5
+    # use if and not elif, because each day may be simultaneously 2nd and 3rd(ex. 6th  day). Autonomous checks.
+    if day % 3 == 0:
+        total_cost += qty_decorations_per_shopping *(price_per_tree_skirt + price_per_tree_garland)
+        total_spirit_points += 10 + 3
+    if day % 5 == 0:
+        total_cost += qty_decorations_per_shopping * price_per_tree_lights
+        total_spirit_points += 17
+        if day % 3 == 0:
+            total_spirit_points += 30
+    if day % 10 == 0:
+        total_spirit_points -= 20
+        total_cost += price_per_tree_skirt + price_per_tree_lights + price_per_tree_garland
+
+# make this check outside of the for-loop, because it happens only 1 time
+
+if days_left % 10 == 0:
+    total_spirit_points -= 30
+
+print(f'Total cost: {total_cost}')
+print(f'Total spirit: {total_spirit_points}')
