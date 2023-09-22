@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c83ec853-6ada-40c6-bddc-38476a537ad2" name="Changes" comment="" />
+    <list default="true" id="c83ec853-6ada-40c6-bddc-38476a537ad2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/02_exercises/chars_to_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_exercises/elevator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_exercises/gladiator_expenses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_exercises/part_of_ascii_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_exercises/party_profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_exercises/snowballs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_exercises/sum_of_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_exercises/triples_of_latin_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_exercises/water_overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_exercises/integer_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_exercises/integer_operations.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +29,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2VdBWcoVg2Mz6bWKoxmrvbiN9sq" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -31,20 +51,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.next_happy_year">
-    <configuration name="centuries_to_minutes,py" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.snowballs">
+    <configuration name="part_of_ascii_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_exercises" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_lab_data_types_and_variables/centuries_to_minutes,py.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_exercises/part_of_ascii_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,19 +73,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="convert_meters_to_kilometers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="party_profit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_exercises" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_lab_data_types_and_variables/convert_meters_to_kilometers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_exercises/party_profit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,19 +94,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="next_happy_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="snowballs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_exercises" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_lab_data_types_and_variables/next_happy_year.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_exercises/snowballs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,19 +115,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pounds_to_dollars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="triples_of_latin_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_exercises" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_lab_data_types_and_variables/pounds_to_dollars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_exercises/triples_of_latin_letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,19 +136,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="special_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="water_overflow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_lab_data_types_and_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_exercises" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_lab_data_types_and_variables/special_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_exercises/water_overflow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.next_happy_year" />
-        <item itemvalue="Python.special_numbers" />
-        <item itemvalue="Python.centuries_to_minutes,py" />
-        <item itemvalue="Python.pounds_to_dollars" />
-        <item itemvalue="Python.convert_meters_to_kilometers" />
+        <item itemvalue="Python.snowballs" />
+        <item itemvalue="Python.party_profit" />
+        <item itemvalue="Python.water_overflow" />
+        <item itemvalue="Python.triples_of_latin_letters" />
+        <item itemvalue="Python.part_of_ascii_table" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +206,21 @@
           <url>file://$PROJECT_DIR$/02_lab_data_types_and_variables/next_happy_year.py</url>
           <line>5</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_exercises/elevator.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_exercises/triples_of_latin_letters.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_exercises/party_profit.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
