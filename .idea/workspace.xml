@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83ec853-6ada-40c6-bddc-38476a537ad2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02_exercises/chars_to_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_exercises/elevator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_exercises/gladiator_expenses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_exercises/part_of_ascii_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_exercises/party_profit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_exercises/snowballs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_exercises/sum_of_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_exercises/triples_of_latin_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_exercises/water_overflow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_exercises/integer_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_exercises/integer_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_exercises/gladiator_expenses.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_exercises/gladiator_expenses.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +42,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.snowballs">
-    <configuration name="part_of_ascii_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.gladiator_expenses">
+    <configuration name="gladiator_expenses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -64,7 +55,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_exercises/part_of_ascii_table.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_exercises/gladiator_expenses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gladiator_expenses" />
         <item itemvalue="Python.snowballs" />
         <item itemvalue="Python.party_profit" />
         <item itemvalue="Python.water_overflow" />
         <item itemvalue="Python.triples_of_latin_letters" />
-        <item itemvalue="Python.part_of_ascii_table" />
       </list>
     </recent_temporary>
   </component>
@@ -221,6 +212,11 @@
           <url>file://$PROJECT_DIR$/02_exercises/party_profit.py</url>
           <line>5</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_exercises/gladiator_expenses.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
