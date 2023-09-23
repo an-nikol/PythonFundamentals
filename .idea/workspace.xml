@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83ec853-6ada-40c6-bddc-38476a537ad2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02_more_exercises/balanced_brackets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_more_exercises/decrypting_messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_more_exercises/exchange_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_more_exercises/prime_number_checker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,8 +224,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/02_more_exercises/balanced_brackets.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="10" />
+          <line>4</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
