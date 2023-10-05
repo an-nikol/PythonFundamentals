@@ -5,6 +5,7 @@ msg_show = ""
 for num in numbers:
     find_index = sum([int(s_num) for s_num in num])
     if find_index >= len(string_text):
+        # how to start counting at the beginning if the char is out of range
         find_index = find_index - len(string_text)
     msg_show += string_text[find_index]
     string_text = string_text[:find_index] + string_text[find_index + 1:]
