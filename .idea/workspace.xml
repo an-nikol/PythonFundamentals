@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83ec853-6ada-40c6-bddc-38476a537ad2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_exercise/even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_exercise/odd_and_even_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_exercise/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_exercise/even_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
     <setting file="file://$PROJECT_DIR$/02_exercises/gladiator_expenses.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2VdBWcoVg2Mz6bWKoxmrvbiN9sq" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -64,7 +63,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager" selected="Python.even_numbers">
     <configuration name="add_and_subtract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
