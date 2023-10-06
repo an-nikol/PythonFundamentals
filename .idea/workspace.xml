@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83ec853-6ada-40c6-bddc-38476a537ad2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_lab_functions/calculate_rectangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_lab_functions/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_lab_functions/repeat_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_lab_functions/rounding.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
