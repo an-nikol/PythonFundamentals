@@ -1,0 +1,6 @@
+# print numbers in ascending order
+
+list_of_numbers = list(map(int, input().split()))
+
+list_of_numbers.sort()
+print(list_of_numbers)
