@@ -1,22 +1,27 @@
 import math
 
-# create a tuple which items are formatted to the lower integer, which are floats and add each of them in a tuple
-points = tuple(math.floor(float(input())) for point in range(4))
+x1 = float(input())
+y1 = float(input())
+x2 = float(input())
+y2 = float(input())
 
-# find the abs sum of the two points
+first_line = tuple([math.floor(x1), math.floor(y1)])
+second_line = tuple([math.floor(x2), math.floor(y2)])
 
-# start with the first half of the tuple
-sum_x = sum([abs(num) for num in points[:2]])
-# continue with the second half
-sum_y = sum([abs(num) for num in points[2:]])
+sum_first_line = 0
+sum_second_line = 0
+
+for num in first_line:
+    sum_first_line += math.floor(abs(num))
+
+for num2 in second_line:
+    sum_second_line += math.floor(abs(num2))
 
 
-# define a function to find the closes points
-def closer_set_of_points(first_point, second_point):
-    # the point that is closer to 0 shall be printed
-    if first_point <= second_point:
-        return points[:2]
+def closest_point(first_length, second_length):
+    if first_length <= second_length:
+        print(first_line)
     else:
-        return points[2:]
+        print(second_line)
 
-print(closer_set_of_points(sum_x, sum_y))
+closest_point(sum_first_line, sum_second_line)
