@@ -312,16 +312,6 @@
           <line>3</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/05_exercise_lists_advanced/soft_uni_course_planning.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/05_exercise_lists_advanced/soft_uni_course_planning.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
