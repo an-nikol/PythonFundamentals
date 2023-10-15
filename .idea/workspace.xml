@@ -65,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.anonymous_threat">
+  <component name="RunManager" selected="Python.soft_uni_course_planning">
     <configuration name="anonymous_threat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="office_chairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="soft_uni_course_planning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -162,7 +162,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_exercise_lists_advanced/office_chairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_exercise_lists_advanced/soft_uni_course_planning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.anonymous_threat" />
+        <item itemvalue="Python.soft_uni_course_planning" />
         <item itemvalue="Python.decipher_this" />
+        <item itemvalue="Python.anonymous_threat" />
         <item itemvalue="Python.group_of_tens" />
         <item itemvalue="Python.electron_distribution" />
-        <item itemvalue="Python.office_chairs" />
       </list>
     </recent_temporary>
   </component>
@@ -308,9 +308,19 @@
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/05_exercise_lists_advanced/anonymous_threat.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="62" />
+          <url>file://$PROJECT_DIR$/05_exercise_lists_advanced/decipher_this.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_exercise_lists_advanced/soft_uni_course_planning.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_exercise_lists_advanced/soft_uni_course_planning.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
