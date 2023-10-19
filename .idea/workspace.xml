@@ -65,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.inventory">
+  <component name="RunManager" selected="Python.treasure_hunt">
     <configuration name="guinea_pig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shoot_for_the_win" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="treasure_hunt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -162,7 +162,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_term_exam_preparation/shoot_for_the_win.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_term_exam_preparation/treasure_hunt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.treasure_hunt" />
         <item itemvalue="Python.inventory" />
         <item itemvalue="Python.heart_delivery" />
         <item itemvalue="Python.guinea_pig" />
         <item itemvalue="Python.moving_target" />
-        <item itemvalue="Python.shoot_for_the_win" />
       </list>
     </recent_temporary>
   </component>
@@ -365,6 +365,11 @@
           <url>file://$PROJECT_DIR$/mid_term_exam_preparation/inventory.py</url>
           <line>14</line>
           <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/treasure_hunt.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
