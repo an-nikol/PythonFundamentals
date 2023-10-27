@@ -47,9 +47,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/03_exercise/seize_the_fire.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/02_exercises/snowballs.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/02_exercises/gladiator_expenses.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/03_exercise_lists_basics/seize_the_fire.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/02_exercise_data_types_and_variables/snowballs.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/02_exercise_data_types_and_variables/gladiator_expenses.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2VdBWcoVg2Mz6bWKoxmrvbiN9sq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -63,22 +63,22 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.take_skip_rope">
-    <configuration name="heart_delivery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04_zoo">
+    <configuration name="01_comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid_term_exam_preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_lab_classes_and_objects" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_term_exam_preparation/heart_delivery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_lab_classes_and_objects/01_comment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,19 +87,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid_term_exam_preparation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_lab_classes_and_objects" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_term_exam_preparation/inventory.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ZBook\Documents\GitHub\softuni-python-fundamentals\06_lab_classes_and_objects\02_party.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,19 +108,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="social_distribution" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_lists_advanced_more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_lab_classes_and_objects" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_lists_advanced_more_exercise/social_distribution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_lab_classes_and_objects/03_email.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_lab_classes_and_objects" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_lab_classes_and_objects/04_zoo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,34 +171,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="treasure_hunt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mid_term_exam_preparation" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mid_term_exam_preparation/treasure_hunt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04_zoo" />
+        <item itemvalue="Python.03_email" />
+        <item itemvalue="Python.02_party" />
+        <item itemvalue="Python.01_comment" />
         <item itemvalue="Python.take_skip_rope" />
-        <item itemvalue="Python.social_distribution" />
-        <item itemvalue="Python.treasure_hunt" />
-        <item itemvalue="Python.inventory" />
-        <item itemvalue="Python.heart_delivery" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +213,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/01_more_exercises/sum_of_a_beach.py</url>
+          <url>file://$PROJECT_DIR$/01_more_exercises_basic_syntax_conditions_loops/sum_of_a_beach.py</url>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -227,51 +227,51 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02_exercises/elevator.py</url>
+          <url>file://$PROJECT_DIR$/02_exercise_data_types_and_variables/elevator.py</url>
           <line>4</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02_exercises/triples_of_latin_letters.py</url>
+          <url>file://$PROJECT_DIR$/02_exercise_data_types_and_variables/triples_of_latin_letters.py</url>
           <line>2</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02_exercises/party_profit.py</url>
+          <url>file://$PROJECT_DIR$/02_exercise_data_types_and_variables/party_profit.py</url>
           <line>5</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02_more_exercises/prime_number_checker.py</url>
+          <url>file://$PROJECT_DIR$/02_more_exercise_data_types_and_variables/prime_number_checker.py</url>
           <line>4</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/02_more_exercises/balanced_brackets.py</url>
+          <url>file://$PROJECT_DIR$/02_more_exercise_data_types_and_variables/balanced_brackets.py</url>
           <line>4</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_exercise/hello, france.py</url>
+          <url>file://$PROJECT_DIR$/03_exercise_lists_basics/hello, france.py</url>
           <line>9</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04_exercise/password_validator.py</url>
+          <url>file://$PROJECT_DIR$/04_exercise_functions/password_validator.py</url>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04_more_exercises/center_point.py</url>
+          <url>file://$PROJECT_DIR$/04_more_exercise_functions/center_point.py</url>
           <line>15</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/04_more_exercises/longer_line.py</url>
+          <url>file://$PROJECT_DIR$/04_more_exercise_functions/longer_line.py</url>
           <line>4</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_more_exercises/car_race.py</url>
+          <url>file://$PROJECT_DIR$/03_more_exercises_lists_basics/car_race.py</url>
           <line>2</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
@@ -313,71 +313,71 @@
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/bonus_scoring_system.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/bonus_scoring_system.py</url>
           <line>9</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/mu_online.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/mu_online.py</url>
           <line>5</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/man_of_war.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/man_of_war.py</url>
           <line>18</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/the_lift.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/the_lift.py</url>
           <line>21</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/nums.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/nums.py</url>
           <line>16</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/counter_strike.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/counter_strike.py</url>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/shoot_for_the_win.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/shoot_for_the_win.py</url>
           <line>5</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/moving_target.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/moving_target.py</url>
           <line>23</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/guinea_pig.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/guinea_pig.py</url>
           <line>12</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/heart_delivery.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/heart_delivery.py</url>
           <line>1</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/inventory.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/inventory.py</url>
           <line>14</line>
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/mid_term_exam_preparation/treasure_hunt.py</url>
+          <url>file://$PROJECT_DIR$/mid_exam_preparation/treasure_hunt.py</url>
           <line>29</line>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/05_lists_advanced_more_exercise/social_distribution.py</url>
+          <url>file://$PROJECT_DIR$/05_more_exercise_lists_advanced/social_distribution.py</url>
           <line>4</line>
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/05_lists_advanced_more_exercise/take_skip_rope.py</url>
+          <url>file://$PROJECT_DIR$/05_more_exercise_lists_advanced/take_skip_rope.py</url>
           <line>24</line>
           <option name="timeStamp" value="101" />
         </line-breakpoint>
