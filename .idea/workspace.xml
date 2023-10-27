@@ -65,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.04_zoo">
+  <component name="RunManager" selected="Python.05_circle">
     <configuration name="01_comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,19 +150,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="take_skip_rope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_lists_advanced_more_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_lab_classes_and_objects" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_lists_advanced_more_exercise/take_skip_rope.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_lab_classes_and_objects/05_circle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_circle" />
         <item itemvalue="Python.04_zoo" />
         <item itemvalue="Python.03_email" />
         <item itemvalue="Python.02_party" />
         <item itemvalue="Python.01_comment" />
-        <item itemvalue="Python.take_skip_rope" />
       </list>
     </recent_temporary>
   </component>
