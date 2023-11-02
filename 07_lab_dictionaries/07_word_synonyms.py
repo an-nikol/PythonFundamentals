@@ -1,4 +1,5 @@
 # adding values as lists in dict
+
 count = int(input())
 
 synonyms = {}
