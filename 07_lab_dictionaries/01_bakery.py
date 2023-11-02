@@ -1,3 +1,5 @@
+# adding kvps in dicts
+
 product_information = input().split()
 
 stock_dict = {}

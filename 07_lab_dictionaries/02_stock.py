@@ -1,4 +1,4 @@
-# create a dict
+# create and search a dict
 stock_information = input().split()
 
 stock_dict = {}

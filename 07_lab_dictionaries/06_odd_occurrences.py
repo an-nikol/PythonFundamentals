@@ -1,4 +1,4 @@
-# make each word lower
+# case insensitive adding kvps and then changing their values
 word_keys = [current_item.lower() for current_item in input().split()]
 
 my_dict_occur = {}
