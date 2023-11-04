@@ -1,4 +1,4 @@
-# search contacts by key
+# one dictionary with a name - phone number
 
 phonebook_dict = {}
 

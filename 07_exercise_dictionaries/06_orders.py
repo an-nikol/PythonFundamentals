@@ -1,3 +1,5 @@
+# two dictionaries with the same key
+# one product - qty and one product - price
 command = input()
 
 # create two separate dicts for qty and prices

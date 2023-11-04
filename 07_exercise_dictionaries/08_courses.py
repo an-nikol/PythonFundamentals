@@ -1,3 +1,5 @@
+# nested dictionary
+# one course(key) with multiple students (values)
 command = input()
 
 dict_course = {}
