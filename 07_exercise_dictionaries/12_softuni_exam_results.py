@@ -1,5 +1,3 @@
-# score: 90/100
-
 name_and_points = {}
 course_and_names = {}
 
@@ -15,7 +13,7 @@ while True:
 
     else:
         programming_course = student_info[1]
-        points = student_info[2]
+        points = int(student_info[2])
         if name not in name_and_points:
             name_and_points[name] = []
         name_and_points[name].append(points)
