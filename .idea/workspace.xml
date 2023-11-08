@@ -65,20 +65,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.11_force_book">
-    <configuration name="08_courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_ranking">
+    <configuration name="01_ranking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_exercise_dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_more_exercises_dictionaries" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_exercise_dictionaries/08_courses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_more_exercises_dictionaries/01_ranking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_ranking" />
         <item itemvalue="Python.11_force_book" />
         <item itemvalue="Python.10_company_users" />
         <item itemvalue="Python.09_student_academy (1)" />
         <item itemvalue="Python.09_student_academy" />
-        <item itemvalue="Python.08_courses" />
       </list>
     </recent_temporary>
   </component>
@@ -434,6 +434,11 @@
           <url>file://$PROJECT_DIR$/07_exercise_dictionaries/10_company_users.py</url>
           <line>4</line>
           <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_more_exercises_dictionaries/01_ranking.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="135" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
