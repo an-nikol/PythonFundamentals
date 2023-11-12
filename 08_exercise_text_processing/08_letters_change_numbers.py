@@ -7,31 +7,40 @@ def lower_letter_position(letter):
 
 
 words = input().split()
-total_sum = 0
+current_sums = {}
 
-# find how to store each value of the string
 
 for word in words:
     number_curr_word = int(word[1:-1])
+    if word not in current_sums:
+        current_sums[word] = 0
+
     if word[0].isupper():
         let_pos = upper_letter_position((word[0]))
         result = number_curr_word / let_pos
-        total_sum += result
+        current_sums[word] += result
 
     else:
+        if word not in current_sums:
+            current_sums[word] = 0
         let_pos = lower_letter_position((word[0]))
         result = number_curr_word * let_pos
-        total_sum = result
-
+        current_sums[word] += result
 
     if word[-1].isupper():
+        if word not in current_sums:
+            current_sums[word] = 0
         let_pos = upper_letter_position(word[-1])
-        total_sum -= let_pos
+        current_sums[word] -= let_pos
 
     else:
+        if word not in current_sums:
+            current_sums[word] = 0
         let_pos = lower_letter_position((word[-1]))
-        total_sum += let_pos
+        current_sums[word] += let_pos
 
+total_sum = 0
+for key in current_sums:
+    total_sum += current_sums[key]
 
-
-print(total_sum)
+print(f'{total_sum:.2f}')
