@@ -65,20 +65,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.10_winning_ticket">
-    <configuration name="06_replace_repeating_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05_dragon_army">
+    <configuration name="05_dragon_army" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_exercise_text_processing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_more_exercises_dictionaries" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_exercise_text_processing/06_replace_repeating_chars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_more_exercises_dictionaries/05_dragon_army.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_dragon_army" />
         <item itemvalue="Python.10_winning_ticket" />
         <item itemvalue="Python.09_rage_quit" />
         <item itemvalue="Python.08_letters_change_numbers" />
         <item itemvalue="Python.07_string_explosion" />
-        <item itemvalue="Python.06_replace_repeating_chars" />
       </list>
     </recent_temporary>
   </component>
@@ -479,11 +479,6 @@
           <url>file://$PROJECT_DIR$/08_exercise_text_processing/09_rage_quit.py</url>
           <line>5</line>
           <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/08_exercise_text_processing/10_winning_ticket.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="156" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
