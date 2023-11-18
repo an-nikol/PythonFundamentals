@@ -65,20 +65,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.06_extract_the_links">
-    <configuration name="02_find_variable_names_in_sentences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02_softuni_bar_income">
+    <configuration name="01_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_exercise_regex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_more_exercises_regex" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="C:\Users\ZBook\Documents\GitHub\softuni-python-fundamentals\09_exercise_regex\02_find_variable_names_in_sentences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_more_exercises_regex/01_race.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,19 +87,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_find_occurances_of_word_in_sequance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_softuni_bar_income" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\ZBook\AppData\Local\Programs\Python\Python39-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_exercise_regex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09_more_exercises_regex" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_exercise_regex/03_find_occurances_of_word_in_sequance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_more_exercises_regex/02_softuni_bar_income.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_softuni_bar_income" />
+        <item itemvalue="Python.01_race" />
         <item itemvalue="Python.06_extract_the_links" />
         <item itemvalue="Python.05_furniture" />
         <item itemvalue="Python.04_extract_emails" />
-        <item itemvalue="Python.03_find_occurances_of_word_in_sequance" />
-        <item itemvalue="Python.02_find_variable_names_in_sentences" />
       </list>
     </recent_temporary>
   </component>
@@ -489,6 +489,21 @@
           <url>file://$PROJECT_DIR$/09_exercise_regex/05_furniture.py</url>
           <line>14</line>
           <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09_exercise_regex/06_extract_the_links.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09_more_exercises_regex/01_race.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09_more_exercises_regex/02_softuni_bar_income.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="168" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
