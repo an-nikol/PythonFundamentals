@@ -1,3 +1,5 @@
+# use slicing, replacing, concatenation to modify a string without a list
+
 message = input()
 command = input().split("|")
 
