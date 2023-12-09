@@ -65,7 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Python.02_plant_discovery">
+  <component name="RunManager" selected="Python.message_manager">
     <configuration name="02_plant_discovery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="heroes_of_code_and_logic_VII" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="message_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -141,7 +141,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam_preparation/heroes_of_code_and_logic_VII.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_exam_preparation/message_manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.message_manager" />
         <item itemvalue="Python.02_plant_discovery" />
         <item itemvalue="Python.p!rates" />
         <item itemvalue="Python.emoji_detector" />
         <item itemvalue="Python.activation_keys" />
-        <item itemvalue="Python.heroes_of_code_and_logic_VII" />
       </list>
     </recent_temporary>
   </component>
